@@ -1,4 +1,5 @@
 # Hosting a Full-Stack Application
+## The URL of the deployed frontend: http://mybucket0116787017333.s3-website-us-east-1.amazonaws.com
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
